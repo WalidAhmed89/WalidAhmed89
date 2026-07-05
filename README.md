@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, JDBC, Data Structures & Algorithms**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **walidahmedismail21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

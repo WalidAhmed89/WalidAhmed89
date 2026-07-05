@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Waleed Ahmed Ismail</h1>
-<h3 align="center">Cross-Platform Flutter Developer with Strong OOP & Database Foundations</h3>
+<h3 align="center">Java Back-End Developer | Spring Boot Enthusiast | Building Scalable REST APIs</h3>
 
-- 🔭 I’m currently working on **Flutter UI & Mobile Applications**
+- 🚀 I'm currently building **Java Back-End Applications with Spring Boot**
 
-- 🌱 I’m currently learning **Advanced Flutter Animations & Scalable App Architecture**
+- 🌱 I'm currently learning **Spring Security, Microservices, Docker & Kubernetes**
 
-- 👯 I’m looking to collaborate on **Flutter Mobile Projects**
+- 💼 I'm looking to collaborate on **Java Back-End & Spring Boot Projects**
 
-- 🤝 I’m looking for help with **Advanced State Management & Clean Architecture in Flutter**
+- 🤝 I'm looking for opportunities as a **Java Back-End Developer**
 
-- 💬 Ask me about **Flutter, Dart, UI Design, Java Swing, JDBC, SQL**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, JDBC, Data Structures & Algorithms**
 
-- 📫 How to reach me **walidahmedismail21@gmail.com**
+- 📫 How to reach me **your-email@example.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

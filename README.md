@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidahmed89&show_icons=true&locale=en" alt="walidahmed89" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidahmed89&" alt="walidahmed89" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=walidahmed89&timezone=Africa%2FCairo)](https://git.io/streak-stats)

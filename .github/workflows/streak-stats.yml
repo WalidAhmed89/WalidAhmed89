@@ -23,7 +23,7 @@ jobs:
         with:
           options: user=walidahmed89&theme=default&disable_animations=true&timezone=Africa%2FCairo
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_TOKEN }}
 
       - name: Commit streak stats
         run: |

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidahmed89&label=Profile%20views&color=0e75b6&style=flat" alt="walidahmed89" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidahmed89" alt="walidahmed89" /></a> </p>
-
 - 🔭 I’m currently working on **Java Spring Boot REST API Projects**
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Spring Data JPA, Hibernate, Docker, Microservices, AWS**

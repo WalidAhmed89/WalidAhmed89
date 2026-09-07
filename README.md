@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidahmed89&show_icons=true&locale=en" alt="walidahmed89" /></p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak">
 </p>

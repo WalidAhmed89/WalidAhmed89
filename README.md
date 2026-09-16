@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=walidahmed89&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="mailto:walidahmedismail21@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/walid-ahmed-a79951370">LinkedIn</a> ·
-  <a href="https://github.com/WalidAhmed89">GitHub</a>
-</p>
 
 ---
 
@@ -53,9 +48,6 @@ Looking to collaborate on backend and Spring Boot projects, and open to conversa
 
 ---
 
-<p align="left">
-  <a href="mailto:walidahmedismail21@gmail.com">walidahmedismail21@gmail.com</a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waleed-ahmed-a79951370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waleed-ahmed-a79951370/" height="30" width="40" /></a>
